@@ -1,38 +1,43 @@
 [
     {
-        "sections_len": 2,
+        "sections_len": 1,
         "sections": [
             {
                 "id": 0,
-                "name": "A",
+                "name": "autocreated",
                 "type": "normal",
                 "is_sub_section": false,
-                "original_video": "/home/bs/projects/manim/v2presentationtest/media/videos/example/1080p60/sections/MinimalPresentationExample_0000.mp4",
+                "original_video": "/home/bs/projects/manim/v2presentationtest/media/videos/example/1080p60/sections/lol_0000.mp4",
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
-                "duration": 1.0,
-                "project_name": "Testproject",
+                "duration": 2.0,
+                "project_name": "tmp_output",
                 "in_project_video": "video_0000.mp4",
                 "in_project_thumbnail": "thumb_0000.jpg",
                 "in_project_id": 0,
                 "parent_id": 0
-            },
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
             {
                 "id": 1,
-                "name": "A.1",
+                "name": "A",
                 "type": "normal",
-                "is_sub_section": true,
-                "original_video": "/home/bs/projects/manim/v2presentationtest/media/videos/example/1080p60/sections/MinimalPresentationExample_0001.mp4",
+                "is_sub_section": false,
+                "original_video": "/home/bs/projects/manim/v2presentationtest/media/videos/example/1080p60/sections/lol_0001.mp4",
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
-                "duration": 1.0,
-                "project_name": "Testproject",
+                "duration": 2.0,
+                "project_name": "tmp_output",
                 "in_project_video": "video_0001.mp4",
                 "in_project_thumbnail": "thumb_0001.jpg",
                 "in_project_id": 1,
-                "parent_id": 0
+                "parent_id": 1
             }
         ]
     },
@@ -42,14 +47,14 @@
             {
                 "id": 2,
                 "name": "B",
-                "type": "skip",
+                "type": "normal",
                 "is_sub_section": false,
-                "original_video": "/home/bs/projects/manim/v2presentationtest/media/videos/example/1080p60/sections/MinimalPresentationExample_0002.mp4",
+                "original_video": "/home/bs/projects/manim/v2presentationtest/media/videos/example/1080p60/sections/lol_0002.mp4",
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
                 "duration": 1.0,
-                "project_name": "Testproject",
+                "project_name": "tmp_output",
                 "in_project_video": "video_0002.mp4",
                 "in_project_thumbnail": "thumb_0002.jpg",
                 "in_project_id": 2,
@@ -58,65 +63,103 @@
         ]
     },
     {
-        "sections_len": 1,
+        "sections_len": 6,
         "sections": [
             {
                 "id": 3,
                 "name": "C",
-                "type": "loop",
+                "type": "normal",
                 "is_sub_section": false,
-                "original_video": "/home/bs/projects/manim/v2presentationtest/media/videos/example/1080p60/sections/MinimalPresentationExample_0003.mp4",
+                "original_video": "/home/bs/projects/manim/v2presentationtest/media/videos/example/1080p60/sections/lol_0003.mp4",
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
                 "duration": 1.0,
-                "project_name": "Testproject",
+                "project_name": "tmp_output",
                 "in_project_video": "video_0003.mp4",
                 "in_project_thumbnail": "thumb_0003.jpg",
                 "in_project_id": 3,
                 "parent_id": 3
-            }
-        ]
-    },
-    {
-        "sections_len": 1,
-        "sections": [
+            },
             {
                 "id": 4,
-                "name": "D",
-                "type": "complete_loop",
-                "is_sub_section": false,
-                "original_video": "/home/bs/projects/manim/v2presentationtest/media/videos/example/1080p60/sections/MinimalPresentationExample_0004.mp4",
+                "name": "",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/home/bs/projects/manim/v2presentationtest/media/videos/example/1080p60/sections/lol_0004.mp4",
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
                 "duration": 1.0,
-                "project_name": "Testproject",
+                "project_name": "tmp_output",
                 "in_project_video": "video_0004.mp4",
                 "in_project_thumbnail": "thumb_0004.jpg",
                 "in_project_id": 4,
-                "parent_id": 4
-            }
-        ]
-    },
-    {
-        "sections_len": 1,
-        "sections": [
+                "parent_id": 3
+            },
             {
                 "id": 5,
-                "name": "E",
+                "name": "",
                 "type": "normal",
-                "is_sub_section": false,
-                "original_video": "/home/bs/projects/manim/v2presentationtest/media/videos/example/1080p60/sections/MinimalPresentationExample_0005.mp4",
+                "is_sub_section": true,
+                "original_video": "/home/bs/projects/manim/v2presentationtest/media/videos/example/1080p60/sections/lol_0005.mp4",
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
-                "duration": 1.0,
-                "project_name": "Testproject",
+                "duration": 2.0,
+                "project_name": "tmp_output",
                 "in_project_video": "video_0005.mp4",
                 "in_project_thumbnail": "thumb_0005.jpg",
                 "in_project_id": 5,
-                "parent_id": 5
+                "parent_id": 3
+            },
+            {
+                "id": 6,
+                "name": "",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/home/bs/projects/manim/v2presentationtest/media/videos/example/1080p60/sections/lol_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "tmp_output",
+                "in_project_video": "video_0006.mp4",
+                "in_project_thumbnail": "thumb_0006.jpg",
+                "in_project_id": 6,
+                "parent_id": 3
+            },
+            {
+                "id": 7,
+                "name": "",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/home/bs/projects/manim/v2presentationtest/media/videos/example/1080p60/sections/lol_0007.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "tmp_output",
+                "in_project_video": "video_0007.mp4",
+                "in_project_thumbnail": "thumb_0007.jpg",
+                "in_project_id": 7,
+                "parent_id": 3
+            },
+            {
+                "id": 8,
+                "name": "",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/home/bs/projects/manim/v2presentationtest/media/videos/example/1080p60/sections/lol_0008.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "tmp_output",
+                "in_project_video": "video_0008.mp4",
+                "in_project_thumbnail": "thumb_0008.jpg",
+                "in_project_id": 8,
+                "parent_id": 3
             }
         ]
     }
