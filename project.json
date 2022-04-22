@@ -244,7 +244,7 @@
         ]
     },
     {
-        "sections_len": 9,
+        "sections_len": 12,
         "sections": [
             {
                 "id": 0,
@@ -367,7 +367,7 @@
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
-                "duration": 5.0,
+                "duration": 2.0,
                 "project_name": "tmp_output",
                 "in_project_video": "video_0021.mp4",
                 "in_project_thumbnail": "thumb_0021.jpg",
@@ -383,11 +383,59 @@
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
-                "duration": 11.0,
+                "duration": 4.0,
                 "project_name": "tmp_output",
                 "in_project_video": "video_0022.mp4",
                 "in_project_thumbnail": "thumb_0022.jpg",
                 "in_project_id": 22,
+                "parent_id": 14
+            },
+            {
+                "id": 9,
+                "name": "",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/home/bs/projects/manim/fachreferat/media/videos/scenes/1080p60/sections/quadratische_funktion_0009.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 4.0,
+                "project_name": "tmp_output",
+                "in_project_video": "video_0023.mp4",
+                "in_project_thumbnail": "thumb_0023.jpg",
+                "in_project_id": 23,
+                "parent_id": 14
+            },
+            {
+                "id": 10,
+                "name": "",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/home/bs/projects/manim/fachreferat/media/videos/scenes/1080p60/sections/quadratische_funktion_0010.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 4.0,
+                "project_name": "tmp_output",
+                "in_project_video": "video_0024.mp4",
+                "in_project_thumbnail": "thumb_0024.jpg",
+                "in_project_id": 24,
+                "parent_id": 14
+            },
+            {
+                "id": 11,
+                "name": "",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/home/bs/projects/manim/fachreferat/media/videos/scenes/1080p60/sections/quadratische_funktion_0011.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 4.0,
+                "project_name": "tmp_output",
+                "in_project_video": "video_0025.mp4",
+                "in_project_thumbnail": "thumb_0025.jpg",
+                "in_project_id": 25,
                 "parent_id": 14
             }
         ]
@@ -406,10 +454,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0023.mp4",
-                "in_project_thumbnail": "thumb_0023.jpg",
-                "in_project_id": 23,
-                "parent_id": 23
+                "in_project_video": "video_0026.mp4",
+                "in_project_thumbnail": "thumb_0026.jpg",
+                "in_project_id": 26,
+                "parent_id": 26
             },
             {
                 "id": 1,
@@ -422,10 +470,10 @@
                 "fps": "60",
                 "duration": 2.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0024.mp4",
-                "in_project_thumbnail": "thumb_0024.jpg",
-                "in_project_id": 24,
-                "parent_id": 23
+                "in_project_video": "video_0027.mp4",
+                "in_project_thumbnail": "thumb_0027.jpg",
+                "in_project_id": 27,
+                "parent_id": 26
             },
             {
                 "id": 2,
@@ -438,10 +486,10 @@
                 "fps": "60",
                 "duration": 2.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0025.mp4",
-                "in_project_thumbnail": "thumb_0025.jpg",
-                "in_project_id": 25,
-                "parent_id": 23
+                "in_project_video": "video_0028.mp4",
+                "in_project_thumbnail": "thumb_0028.jpg",
+                "in_project_id": 28,
+                "parent_id": 26
             },
             {
                 "id": 3,
@@ -454,10 +502,10 @@
                 "fps": "60",
                 "duration": 2.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0026.mp4",
-                "in_project_thumbnail": "thumb_0026.jpg",
-                "in_project_id": 26,
-                "parent_id": 23
+                "in_project_video": "video_0029.mp4",
+                "in_project_thumbnail": "thumb_0029.jpg",
+                "in_project_id": 29,
+                "parent_id": 26
             },
             {
                 "id": 4,
@@ -470,10 +518,10 @@
                 "fps": "60",
                 "duration": 2.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0027.mp4",
-                "in_project_thumbnail": "thumb_0027.jpg",
-                "in_project_id": 27,
-                "parent_id": 23
+                "in_project_video": "video_0030.mp4",
+                "in_project_thumbnail": "thumb_0030.jpg",
+                "in_project_id": 30,
+                "parent_id": 26
             },
             {
                 "id": 5,
@@ -486,10 +534,10 @@
                 "fps": "60",
                 "duration": 2.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0028.mp4",
-                "in_project_thumbnail": "thumb_0028.jpg",
-                "in_project_id": 28,
-                "parent_id": 23
+                "in_project_video": "video_0031.mp4",
+                "in_project_thumbnail": "thumb_0031.jpg",
+                "in_project_id": 31,
+                "parent_id": 26
             },
             {
                 "id": 6,
@@ -502,10 +550,10 @@
                 "fps": "60",
                 "duration": 2.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0029.mp4",
-                "in_project_thumbnail": "thumb_0029.jpg",
-                "in_project_id": 29,
-                "parent_id": 23
+                "in_project_video": "video_0032.mp4",
+                "in_project_thumbnail": "thumb_0032.jpg",
+                "in_project_id": 32,
+                "parent_id": 26
             },
             {
                 "id": 7,
@@ -518,10 +566,10 @@
                 "fps": "60",
                 "duration": 2.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0030.mp4",
-                "in_project_thumbnail": "thumb_0030.jpg",
-                "in_project_id": 30,
-                "parent_id": 23
+                "in_project_video": "video_0033.mp4",
+                "in_project_thumbnail": "thumb_0033.jpg",
+                "in_project_id": 33,
+                "parent_id": 26
             },
             {
                 "id": 8,
@@ -534,10 +582,10 @@
                 "fps": "60",
                 "duration": 2.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0031.mp4",
-                "in_project_thumbnail": "thumb_0031.jpg",
-                "in_project_id": 31,
-                "parent_id": 23
+                "in_project_video": "video_0034.mp4",
+                "in_project_thumbnail": "thumb_0034.jpg",
+                "in_project_id": 34,
+                "parent_id": 26
             },
             {
                 "id": 9,
@@ -550,10 +598,10 @@
                 "fps": "60",
                 "duration": 2.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0032.mp4",
-                "in_project_thumbnail": "thumb_0032.jpg",
-                "in_project_id": 32,
-                "parent_id": 23
+                "in_project_video": "video_0035.mp4",
+                "in_project_thumbnail": "thumb_0035.jpg",
+                "in_project_id": 35,
+                "parent_id": 26
             }
         ]
     },
@@ -571,10 +619,10 @@
                 "fps": "60",
                 "duration": 2.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0033.mp4",
-                "in_project_thumbnail": "thumb_0033.jpg",
-                "in_project_id": 33,
-                "parent_id": 33
+                "in_project_video": "video_0036.mp4",
+                "in_project_thumbnail": "thumb_0036.jpg",
+                "in_project_id": 36,
+                "parent_id": 36
             }
         ]
     },
@@ -592,10 +640,10 @@
                 "fps": "60",
                 "duration": 2.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0034.mp4",
-                "in_project_thumbnail": "thumb_0034.jpg",
-                "in_project_id": 34,
-                "parent_id": 34
+                "in_project_video": "video_0037.mp4",
+                "in_project_thumbnail": "thumb_0037.jpg",
+                "in_project_id": 37,
+                "parent_id": 37
             },
             {
                 "id": 1,
@@ -608,10 +656,10 @@
                 "fps": "60",
                 "duration": 2.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0035.mp4",
-                "in_project_thumbnail": "thumb_0035.jpg",
-                "in_project_id": 35,
-                "parent_id": 34
+                "in_project_video": "video_0038.mp4",
+                "in_project_thumbnail": "thumb_0038.jpg",
+                "in_project_id": 38,
+                "parent_id": 37
             },
             {
                 "id": 2,
@@ -624,10 +672,10 @@
                 "fps": "60",
                 "duration": 3.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0036.mp4",
-                "in_project_thumbnail": "thumb_0036.jpg",
-                "in_project_id": 36,
-                "parent_id": 34
+                "in_project_video": "video_0039.mp4",
+                "in_project_thumbnail": "thumb_0039.jpg",
+                "in_project_id": 39,
+                "parent_id": 37
             },
             {
                 "id": 3,
@@ -640,10 +688,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0037.mp4",
-                "in_project_thumbnail": "thumb_0037.jpg",
-                "in_project_id": 37,
-                "parent_id": 34
+                "in_project_video": "video_0040.mp4",
+                "in_project_thumbnail": "thumb_0040.jpg",
+                "in_project_id": 40,
+                "parent_id": 37
             },
             {
                 "id": 4,
@@ -656,10 +704,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0038.mp4",
-                "in_project_thumbnail": "thumb_0038.jpg",
-                "in_project_id": 38,
-                "parent_id": 34
+                "in_project_video": "video_0041.mp4",
+                "in_project_thumbnail": "thumb_0041.jpg",
+                "in_project_id": 41,
+                "parent_id": 37
             },
             {
                 "id": 5,
@@ -672,10 +720,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0039.mp4",
-                "in_project_thumbnail": "thumb_0039.jpg",
-                "in_project_id": 39,
-                "parent_id": 34
+                "in_project_video": "video_0042.mp4",
+                "in_project_thumbnail": "thumb_0042.jpg",
+                "in_project_id": 42,
+                "parent_id": 37
             },
             {
                 "id": 6,
@@ -688,10 +736,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0040.mp4",
-                "in_project_thumbnail": "thumb_0040.jpg",
-                "in_project_id": 40,
-                "parent_id": 34
+                "in_project_video": "video_0043.mp4",
+                "in_project_thumbnail": "thumb_0043.jpg",
+                "in_project_id": 43,
+                "parent_id": 37
             },
             {
                 "id": 7,
@@ -704,10 +752,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0041.mp4",
-                "in_project_thumbnail": "thumb_0041.jpg",
-                "in_project_id": 41,
-                "parent_id": 34
+                "in_project_video": "video_0044.mp4",
+                "in_project_thumbnail": "thumb_0044.jpg",
+                "in_project_id": 44,
+                "parent_id": 37
             }
         ]
     },
@@ -725,10 +773,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0042.mp4",
-                "in_project_thumbnail": "thumb_0042.jpg",
-                "in_project_id": 42,
-                "parent_id": 42
+                "in_project_video": "video_0045.mp4",
+                "in_project_thumbnail": "thumb_0045.jpg",
+                "in_project_id": 45,
+                "parent_id": 45
             },
             {
                 "id": 1,
@@ -741,10 +789,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0043.mp4",
-                "in_project_thumbnail": "thumb_0043.jpg",
-                "in_project_id": 43,
-                "parent_id": 42
+                "in_project_video": "video_0046.mp4",
+                "in_project_thumbnail": "thumb_0046.jpg",
+                "in_project_id": 46,
+                "parent_id": 45
             },
             {
                 "id": 2,
@@ -757,10 +805,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0044.mp4",
-                "in_project_thumbnail": "thumb_0044.jpg",
-                "in_project_id": 44,
-                "parent_id": 42
+                "in_project_video": "video_0047.mp4",
+                "in_project_thumbnail": "thumb_0047.jpg",
+                "in_project_id": 47,
+                "parent_id": 45
             },
             {
                 "id": 3,
@@ -773,10 +821,10 @@
                 "fps": "60",
                 "duration": 2.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0045.mp4",
-                "in_project_thumbnail": "thumb_0045.jpg",
-                "in_project_id": 45,
-                "parent_id": 42
+                "in_project_video": "video_0048.mp4",
+                "in_project_thumbnail": "thumb_0048.jpg",
+                "in_project_id": 48,
+                "parent_id": 45
             },
             {
                 "id": 4,
@@ -789,10 +837,10 @@
                 "fps": "60",
                 "duration": 2.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0046.mp4",
-                "in_project_thumbnail": "thumb_0046.jpg",
-                "in_project_id": 46,
-                "parent_id": 42
+                "in_project_video": "video_0049.mp4",
+                "in_project_thumbnail": "thumb_0049.jpg",
+                "in_project_id": 49,
+                "parent_id": 45
             },
             {
                 "id": 5,
@@ -805,10 +853,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0047.mp4",
-                "in_project_thumbnail": "thumb_0047.jpg",
-                "in_project_id": 47,
-                "parent_id": 42
+                "in_project_video": "video_0050.mp4",
+                "in_project_thumbnail": "thumb_0050.jpg",
+                "in_project_id": 50,
+                "parent_id": 45
             },
             {
                 "id": 6,
@@ -821,15 +869,15 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0048.mp4",
-                "in_project_thumbnail": "thumb_0048.jpg",
-                "in_project_id": 48,
-                "parent_id": 42
+                "in_project_video": "video_0051.mp4",
+                "in_project_thumbnail": "thumb_0051.jpg",
+                "in_project_id": 51,
+                "parent_id": 45
             }
         ]
     },
     {
-        "sections_len": 6,
+        "sections_len": 5,
         "sections": [
             {
                 "id": 0,
@@ -842,10 +890,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0049.mp4",
-                "in_project_thumbnail": "thumb_0049.jpg",
-                "in_project_id": 49,
-                "parent_id": 49
+                "in_project_video": "video_0052.mp4",
+                "in_project_thumbnail": "thumb_0052.jpg",
+                "in_project_id": 52,
+                "parent_id": 52
             },
             {
                 "id": 1,
@@ -858,10 +906,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0050.mp4",
-                "in_project_thumbnail": "thumb_0050.jpg",
-                "in_project_id": 50,
-                "parent_id": 49
+                "in_project_video": "video_0053.mp4",
+                "in_project_thumbnail": "thumb_0053.jpg",
+                "in_project_id": 53,
+                "parent_id": 52
             },
             {
                 "id": 2,
@@ -872,12 +920,12 @@
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
-                "duration": 1.0,
+                "duration": 3.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0051.mp4",
-                "in_project_thumbnail": "thumb_0051.jpg",
-                "in_project_id": 51,
-                "parent_id": 49
+                "in_project_video": "video_0054.mp4",
+                "in_project_thumbnail": "thumb_0054.jpg",
+                "in_project_id": 54,
+                "parent_id": 52
             },
             {
                 "id": 3,
@@ -890,10 +938,10 @@
                 "fps": "60",
                 "duration": 2.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0052.mp4",
-                "in_project_thumbnail": "thumb_0052.jpg",
-                "in_project_id": 52,
-                "parent_id": 49
+                "in_project_video": "video_0055.mp4",
+                "in_project_thumbnail": "thumb_0055.jpg",
+                "in_project_id": 55,
+                "parent_id": 52
             },
             {
                 "id": 4,
@@ -904,28 +952,12 @@
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
-                "duration": 2.0,
-                "project_name": "tmp_output",
-                "in_project_video": "video_0053.mp4",
-                "in_project_thumbnail": "thumb_0053.jpg",
-                "in_project_id": 53,
-                "parent_id": 49
-            },
-            {
-                "id": 5,
-                "name": " ",
-                "type": "normal",
-                "is_sub_section": true,
-                "original_video": "/home/bs/projects/manim/fachreferat/media/videos/scenes/1080p60/sections/loesen_praxisbeispiel_0005.mp4",
-                "width": 1920,
-                "height": 1080,
-                "fps": "60",
                 "duration": 1.0,
                 "project_name": "tmp_output",
-                "in_project_video": "video_0054.mp4",
-                "in_project_thumbnail": "thumb_0054.jpg",
-                "in_project_id": 54,
-                "parent_id": 49
+                "in_project_video": "video_0056.mp4",
+                "in_project_thumbnail": "thumb_0056.jpg",
+                "in_project_id": 56,
+                "parent_id": 52
             }
         ]
     }
