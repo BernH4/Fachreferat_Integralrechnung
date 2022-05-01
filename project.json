@@ -1045,5 +1045,26 @@
                 "parent_id": 58
             }
         ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "Quellen",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/bs/projects/manim/fachreferat/media/videos/scenes/1080p60/sections/quellen_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 0.2,
+                "project_name": "Integralrechnung",
+                "in_project_video": "video_0062.mp4",
+                "in_project_thumbnail": "thumb_0062.jpg",
+                "in_project_id": 62,
+                "parent_id": 62
+            }
+        ]
     }
 ]
