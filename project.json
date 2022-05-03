@@ -1,6 +1,6 @@
 [
     {
-        "sections_len": 1,
+        "sections_len": 2,
         "sections": [
             {
                 "id": 0,
@@ -17,27 +17,22 @@
                 "in_project_thumbnail": "thumb_0000.jpg",
                 "in_project_id": 0,
                 "parent_id": 0
-            }
-        ]
-    },
-    {
-        "sections_len": 1,
-        "sections": [
+            },
             {
                 "id": 0,
-                "name": "Inhaltsverzeichnis",
+                "name": "",
                 "type": "normal",
-                "is_sub_section": false,
+                "is_sub_section": true,
                 "original_video": "/home/bs/projects/manim/fachreferat/media/videos/scenes/1080p60/sections/inhaltsverzeichnis_0000.mp4",
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
-                "duration": 0.2,
+                "duration": 1.4,
                 "project_name": "Integralrechnung",
                 "in_project_video": "video_0001.mp4",
                 "in_project_thumbnail": "thumb_0001.jpg",
                 "in_project_id": 1,
-                "parent_id": 1
+                "parent_id": 0
             }
         ]
     },
@@ -106,7 +101,7 @@
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
-                "duration": 7.0,
+                "duration": 6.0,
                 "project_name": "Integralrechnung",
                 "in_project_video": "video_0005.mp4",
                 "in_project_thumbnail": "thumb_0005.jpg",
@@ -718,7 +713,7 @@
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
-                "duration": 2.0,
+                "duration": 1.0,
                 "project_name": "Integralrechnung",
                 "in_project_video": "video_0042.mp4",
                 "in_project_thumbnail": "thumb_0042.jpg",
@@ -920,7 +915,7 @@
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
-                "duration": 2.0,
+                "duration": 1.0,
                 "project_name": "Integralrechnung",
                 "in_project_video": "video_0054.mp4",
                 "in_project_thumbnail": "thumb_0054.jpg",
@@ -936,7 +931,7 @@
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
-                "duration": 2.0,
+                "duration": 1.0,
                 "project_name": "Integralrechnung",
                 "in_project_video": "video_0055.mp4",
                 "in_project_thumbnail": "thumb_0055.jpg",
@@ -1005,7 +1000,7 @@
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
-                "duration": 3.0,
+                "duration": 2.0,
                 "project_name": "Integralrechnung",
                 "in_project_video": "video_0059.mp4",
                 "in_project_thumbnail": "thumb_0059.jpg",
@@ -1021,7 +1016,7 @@
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
-                "duration": 2.0,
+                "duration": 1.0,
                 "project_name": "Integralrechnung",
                 "in_project_video": "video_0060.mp4",
                 "in_project_thumbnail": "thumb_0060.jpg",
